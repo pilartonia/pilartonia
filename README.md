@@ -1,6 +1,4 @@
-# Hello world, I'm Pilar Osorio
-![Welcome Cat](https://github.com/pilartonia/pilartonia/assets/hi.gif)
-
+# Hello world!, I'm Pilar Osorio
 ## 🚀 About Me
 - Frontend Developer junior open to new job opportunities
 - Currently learning backend bases
