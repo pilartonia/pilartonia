@@ -1,5 +1,5 @@
 # Hello world, I'm Pilar Osorio
-![Welcome Cat](https://media.tenor.com/_rO9rIzOiBkAAAAC/welcome-cat-cute.gif)
+![Welcome Cat](https://github.com/pilartonia/pilartonia/assets/hi.gif)
 
 ## 🚀 About Me
 - Frontend Developer junior open to new job opportunities
